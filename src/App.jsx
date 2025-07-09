@@ -198,6 +198,8 @@ export default function App() {
               <textarea
                 name="message"
                 placeholder="Hi i am Lexi! Ask your legal questions..."
+                 value={query}
+                 onChange={(e) => setQuery(e.target.value)}
                 required
                 className="w-full min-h-[120px] bg-[#161616] text-white placeholder-gray-400 rounded-md border border-zinc-700 px-4 py-3 outline-none focus:border-blue-500 hover:border-blue-500 transition-all"
               ></textarea>
