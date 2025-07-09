@@ -29,7 +29,7 @@ This project is a simulated frontend interface for a Lexi-style legal assistant.
 
 ## 🚀 Live Demo
 
-[🔗 Deployed App](https://your-deployment-url.vercel.app)  
+[🔗 Deployed App](https://lexi-legal-assistant-orcin.vercel.app/)  
 _(replace this link with your actual Vercel deployment)_
 
 ---
